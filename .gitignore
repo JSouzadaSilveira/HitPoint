@@ -1,2 +1,9 @@
-.env
+cypress.env.json
+node_modules/
+
 cypress-cron.log
+package-lock.json
+
+cypress/downloads
+cypress/screenshots
+cypress/videos

@@ -11,9 +11,9 @@ brew install node
 npm install
 ```
 
-3. Add your credentials in the .env file
+1. Add your credentials in the cypress.env.json file
 
-4. Run the test
+2. Run the test
 
 ```bash
 npm run test:hitpoint
