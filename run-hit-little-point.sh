@@ -7,7 +7,7 @@ cd /Users/jonathansilveira/Documents/hitpoint
 echo "Starting Cypress test at $(date)" >> cypress-cron.log
 
 # Run the test and log output
-npm run test:hitPoint >> cypress-cron.log 2>&1
+npm run test:hitpoint >> cypress-cron.log 2>&1
 
 # Log the end time
 echo "Finished at $(date)" >> cypress-cron.log
